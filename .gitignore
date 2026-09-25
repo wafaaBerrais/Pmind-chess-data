@@ -1,0 +1,23 @@
+# Data (collected from Lichess, not versioned)
+data/
+*.jsonl
+*.csv
+!docs/**/*.csv
+
+# Chess engine binaries
+stockfish*/
+stockfish-*
+
+# Secrets
+.env
+
+# Python / Jupyter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

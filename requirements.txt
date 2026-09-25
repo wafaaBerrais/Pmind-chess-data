@@ -1,0 +1,15 @@
+# Notebooks were run on Google Colab.
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+lightgbm
+xgboost
+catboost
+optuna
+torch
+matplotlib
+seaborn
+python-chess
+berserk
